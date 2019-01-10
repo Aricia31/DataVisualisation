@@ -19,7 +19,15 @@ Source: http://diabetesatlas.org/resources/2017-atlas.html
 
 Explanatory - Physical - 3D
 
-I took 2 planks. I glue the boards together and I screws the boards together. On the left side, I wrote absolute values and on the right side, the %. I draw all the rectangles in Fusion 360 and I printed them. Then, I wrote the different provinces and ASO, BSO, KSO and TSO. At the end I have glued all the rectangles on the right place.
+I took 2 planks. I glue the boards together and I screws the boards together. On the left side, I wrote absolute values and on the right side, the %. I drew all the rectangles in Fusion 360 and I printed them. Then, I wrote the different provinces and ASO, BSO, KSO and TSO. At the end I have glued all the rectangles on the right place.
 
 Source: https://provincies.incijfers.be/databank?var=%20v2301_aso_lln,%20v2301_bso_lln,%20v2301_kso_lln,%20v2301_tso_lln
 
+
+# DataVisualisation_Opdracht2
+
+Exploratory - Interactive - D3
+
+First, I drew
+
+Source: https://www.kaggle.com/nguyenhoc/plane-crash
