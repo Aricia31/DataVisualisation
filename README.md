@@ -2,24 +2,24 @@
 
 Explanatory - Static
 
-De poster laat zien
-  - het % mensen die diabetes hebben,
-  - het % mensen die jonger zijn dan 20 jaar en die diabetes type 1 hebben,
-  - het % vrouwen die gedurende de zwangerschap hyperglycemie hebben,
-  - het % mensen die diabetes hebben maar die het niet weten,
-  - het % sterftes onder de 60 jaar en
-  - het % dat mensen uitgeven aan diabetes(zorg, medicijnen,...) per gebied
+The poster shows
+  - the % of diabetes,
+  - the % of people younger than 20 years who have diabetes type 1,
+  - the % of hyperglycemia during pregnancy,
+  - the % of people with undiagnosed diabetes,
+  - the % of mortality younger than 60 years and
+  - the % of budget they spend on diabetes per area.
   
-Ik heb voor dit onderwerp gekozen omdat ik zelf diabets heb en ik heb altijd al willen weten hoeveel mensen deze ziekte ook hadden. 
+I choosed this subject because I'm also a diabetes patient and I always wanted to know how many people have the same disease.
 
-Bron: http://diabetesatlas.org/resources/2017-atlas.html
+Source: http://diabetesatlas.org/resources/2017-atlas.html
     
     
 # DataVisualisation_Opdracht2
 
 Explanatory - Physical - 3D
 
+I took 2 planks. I glue the boards together and I screws the boards together. On the left side, I wrote absolute values and on the right side, the %. I draw all the rectangles in Fusion 360 and I printed them. Then, I wrote the different provinces and ASO, BSO, KSO and TSO. At the end I have glued all the rectangles on the right place.
 
-
-Bron: https://provincies.incijfers.be/databank?var=%20v2301_aso_lln,%20v2301_bso_lln,%20v2301_kso_lln,%20v2301_tso_lln
+Source: https://provincies.incijfers.be/databank?var=%20v2301_aso_lln,%20v2301_bso_lln,%20v2301_kso_lln,%20v2301_tso_lln
 
