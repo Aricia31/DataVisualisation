@@ -1,0 +1,47 @@
+metro,bikestands
+Centraal Station,40
+Park,25
+Kunst-Wet,21
+Naamsepoort,23
+Montgomery,25
+Louiza,40
+Graaf van Vlaanderen,24
+De Brouckere,43
+Rogier,36
+Clemenceau,27
+Koning Boudewijn,25
+Hallepoort,25
+Munthof,25
+Ribaucourt,25
+Zuidstation,40
+Kruidtuin,25
+Madou,24
+Maalbeek,35
+Schuman,40
+Pannenhuis,20
+Simonis,32
+Zwarte Vijvers,25
+Belgica,25
+Beekant,25
+Weststation,30
+Aumale,25
+Sint-Guido,25
+Veeweide,25
+Coovi,25
+Het Rad,15
+Bizet,23
+Delacroix,25
+Eddy Merckx,25
+Houba-Brugmann,25
+Heizel,25
+Delta,22
+Demey,25
+Herrmann-Debroux,30
+Hankar,25
+Roodebeek,25
+Vandervelde,25
+Kraainem,17
+Tomberg,24
+Erasmus,25
+Beaulieu,20
+Stokkel,25
