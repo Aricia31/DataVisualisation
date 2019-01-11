@@ -45,3 +45,13 @@ I began to search which metro station has Villo bikestands and how many they hav
 Source: https://opendata.brussel.be/explore/dataset/villo-stations-beschikbaarheid-in-real-time/table/?sort=-number&location=11,50.84458,4.36556
 Source: https://opendata.brussel.be/explore/dataset/haltes-mivb/table/
     
+
+# DataVisualisation_Opdracht5
+
+Explanatory - Static
+
+I made a list of 28 people. I've searched one by one the meaning of their names and their origins. I linked the name with his corresponding origin and significance.
+
+Source: https://www.journaldesfemmes.fr/prenoms/lina/prenom-1065
+Source: https://www.betekenisnamen.nl/
+Source: https://www.babybytes.nl/namen/
