@@ -34,3 +34,14 @@ I began to draw the x and y-axis of the aboard graphic. I added the date and the
 I've choosed this subject because it's really impressive how many people didn't survive.
 
 Source: https://www.kaggle.com/nguyenhoc/plane-crash
+
+
+# DataVisualisation_Opdracht4
+
+Explanatory - Node Based(NodeBox) - Linear
+
+I began to search which metro station has Villo bikestands and how many they have. I began to draw circles, who represents the number of Villo bikestands per station. Then, I drew the metro stations all around, in a circle shape. I wanted my design to look like a bike. So, I positioned the metro stations inside the circle shape, the circles all around the metro stations and I wrote the quantity of Villo bikestands all around the circles. The result is a bicycle wheel, but it didn't look like a bicycle yet. So, I drew a saddle, a handlebar and a second wheel.
+
+Source: https://opendata.brussel.be/explore/dataset/villo-stations-beschikbaarheid-in-real-time/table/?sort=-number&location=11,50.84458,4.36556
+Source: https://opendata.brussel.be/explore/dataset/haltes-mivb/table/
+    
