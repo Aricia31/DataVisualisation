@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+}
+
+path {
+  stroke-width: 2px;
+}
+
+g.tick text {
+  font-size: 14px;
+  fill: purple;
+}
+
+text {
+  fill: black;
+  font-size: 10px;
+}
+
+circle:hover {
+  opacity: 0.5;
+}
