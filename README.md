@@ -10,7 +10,7 @@ The poster shows
   - the % of mortality younger than 60 years and
   - the % of budget they spend on diabetes per area.
   
-I've choosed this subject because I'm also a diabetes patient and I always wanted to know how many people have the same disease.
+I've chosen this subject because I'm also a diabetes patient and I always wanted to know how many people have the same disease.
 
 Source: http://diabetesatlas.org/resources/2017-atlas.html
     
@@ -19,7 +19,7 @@ Source: http://diabetesatlas.org/resources/2017-atlas.html
 
 Explanatory - Physical - 3D
 
-I took 2 planks. I glue the boards together and I screws the boards together. On the left side, I wrote absolute values and on the right side, the %. I drew all the rectangles in Fusion 360 and I printed them. Then, I wrote the different provinces and ASO, BSO, KSO and TSO. At the end, I have glued all the rectangles on the right place.
+I took 2 planks. I glued the boards together and I screwed the boards together. On the left side, I wrote absolute values and on the right side, the %. I drew all the rectangles in Fusion 360 and I printed them. Then, I wrote the different provinces and ASO, BSO, KSO and TSO. At the end, I glued all the rectangles on the right place.
 
 Source: https://provincies.incijfers.be/databank?var=%20v2301_aso_lln,%20v2301_bso_lln,%20v2301_kso_lln,%20v2301_tso_lln
 
@@ -28,10 +28,10 @@ Source: https://provincies.incijfers.be/databank?var=%20v2301_aso_lln,%20v2301_b
 
 Exploratory - Interactive - D3
 
-First, I calculated the total number of people who climbed aboard on a plane per year. Then, I calculated how many passengers and how many crew members climbed aboard. At the end, I calculated the %. I did the same thing for the crash planes.
-I began to draw the x and y-axis of the aboard graphic. I added the date and the %. At the end, I drew the circles who represents the number of passengers and crew members that climbed aboard. To distinguish the passengers from the crew members, I gave them another color. I did the same thing for the crash graphic. I put the two graphics next to each other. When you hover on a passengers circle, you can see on the other graphic how any died. The same for the crew members.
+First, I calculated the total number of people who embarked on a plane per year. Then, I calculated how many passengers and how many crew members embarked. At the end, I calculated the %. I did the same thing for the crashed planes.
+I began to draw the x and y-axis of the aboard graphic. I added the date and the %. At the end, I drew the circles who represents the number of passengers and crew members that embarked. To distinguish the passengers from the crew members, I gave them another color. I did the same thing for the other graphic. I put the two graphics next to each other. When you hover on a passengers circle, you can see on the other graphic how any died. The same for the crew members.
 
-I've choosed this subject because it's really impressive how many people didn't survive.
+I've chosen this subject because it's really impressive when you compare both graphics.
 
 Source: https://www.kaggle.com/nguyenhoc/plane-crash
 
@@ -40,7 +40,7 @@ Source: https://www.kaggle.com/nguyenhoc/plane-crash
 
 Explanatory - Node Based(NodeBox) - Linear
 
-I began to search which metro station has Villo bikestands and how many they have. I began to draw circles, who represents the number of Villo bikestands per station. Then, I drew the metro stations all around, in a circle shape. I wanted my design to look like a bike. So, I positioned the metro stations inside the circle shape, the circles all around the metro stations and I wrote the quantity of Villo bikestands all around the circles. The result is a bicycle wheel, but it didn't look like a bicycle yet. So, I drew a saddle, a handlebar and a second wheel.
+I began to search which metro station has Villo bikestands and how many bikestands they have. I began to draw circles, who represent the number of Villo bikestands per station. Then, I drew the metro stations all around, in a circle shape. I wanted my design to look like a bike. So, I positioned the metro stations inside the circle shape, the circles all around the metro stations and I wrote the quantity of Villo bikestands all around the circles. The result is a bicycle wheel, but it didn't look like a bicycle yet. So, I drew a saddle, a handlebar and a second wheel.
 
 Source: https://opendata.brussel.be/explore/dataset/villo-stations-beschikbaarheid-in-real-time/table/?sort=-number&location=11,50.84458,4.36556
 Source: https://opendata.brussel.be/explore/dataset/haltes-mivb/table/
@@ -50,7 +50,7 @@ Source: https://opendata.brussel.be/explore/dataset/haltes-mivb/table/
 
 Explanatory - Static
 
-I made a list of 28 people. I've searched one by one the meaning of their names and their origins. I linked the name with his corresponding origin and significance.
+I made a list of 28 people. I've searched one by one the meaning and the origins of their names. I linked the name with his corresponding origin and significance.
 
 Source: https://www.journaldesfemmes.fr/prenoms/lina/prenom-1065
 Source: https://www.betekenisnamen.nl/
